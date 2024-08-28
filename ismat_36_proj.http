@@ -1,0 +1,6 @@
+@ismat_36_proj_HostAddress = http://localhost:5072
+
+GET {{ismat_36_proj_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
